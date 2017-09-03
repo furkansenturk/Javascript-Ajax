@@ -1,4 +1,3 @@
-# !NEW = [MOVED](https://github.com/furkansenturk/Javascript-Ajax)
 # Ajax
 ( Version:0.1 )
 
